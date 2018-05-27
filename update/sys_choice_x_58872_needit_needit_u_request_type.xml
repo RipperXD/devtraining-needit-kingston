@@ -5,6 +5,82 @@
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
+            <inactive>false</inactive>
+            <label>Adela Cervantsz</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 16:06:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66e4d23ddb52130075ffd001cf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 16:06:15</sys_updated_on>
+            <value>Adela Cervantsz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aileen Mottern</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 16:06:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ae4d23ddb52130075ffd001cf961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 16:06:15</sys_updated_on>
+            <value>Aileen Mottern</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bryan Rovell</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 16:06:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ee4d23ddb52130075ffd001cf961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 16:06:16</sys_updated_on>
+            <value>Bryan Rovell</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Danny Dales</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 16:06:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66e4d23ddb52130075ffd001cf961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 16:06:16</sys_updated_on>
+            <value>Danny Dales</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
             <inactive>true</inactive>
             <label>Developer Enablement</label>
             <language>en</language>
@@ -38,6 +114,25 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-01-26 19:28:14</sys_updated_on>
             <value>hr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nathanial Phoenix</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 16:06:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22e4d23ddb52130075ffd001cf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 16:06:16</sys_updated_on>
+            <value>Nathanial Phoenix</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -83,13 +178,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-01-26 19:28:14</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>b71f77284fea3200018eb3728110c7c6</sys_id>
+            <sys_id>7c2c757ddb12130075ffd001cf96193c</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_name>u_request_type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
